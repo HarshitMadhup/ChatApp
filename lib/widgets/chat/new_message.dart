@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:google_fonts/google_fonts.dart';
 import './aes.dart';
 import 'package:crypto/crypto.dart';
 
@@ -49,9 +50,10 @@ class _NewMessageState extends State<NewMessage> {
         children: <Widget>[
           Expanded(
             child: TextField(
+              style: GoogleFonts.lato(color: Colors.white),
               controller: _controller,
               decoration: InputDecoration(
-                  labelText: '  Send a message...',
+                  labelText: '    Send a message...',
                   labelStyle: TextStyle(color: Colors.white)),
               onChanged: (value) {
                 setState(() {

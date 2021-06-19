@@ -118,6 +118,15 @@ class _AuthFormState extends State<AuthForm> {
                     fit: BoxFit.cover,
                   ))
             ]),
+            // _isLogin
+            //     ? Container(
+            //         height: 70,
+            //         child: Image(
+            //           image: AssetImage('lib/3394897.jpg'),
+            //           fit: BoxFit.scaleDown,
+            //         ),
+            //       )
+            //     : Container(),
             Container(
               height: 500,
               child: Center(
