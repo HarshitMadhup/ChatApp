@@ -7,8 +7,5 @@
 
 ## Screenshot
 
-![Screenshot_3](https://user-images.githubusercontent.com/72512986/122643928-25ef3080-d130-11eb-851c-0966eb9e15ff.png)
-![Screenshot_2021-06-19-03-50-21-284_com example chatapp](https://user-images.githubusercontent.com/72512986/122643961-4919e000-d130-11eb-8532-e18c47a572a8.jpg)
-
-
+![Apple iPhone Xs Max Presentation](https://user-images.githubusercontent.com/72512986/122687632-21f90680-d235-11eb-8b48-883bcc7e7728.png)
 
