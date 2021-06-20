@@ -1,16 +1,14 @@
-# chatapp
+# SecureChat
+=> A real-time chat application for mobile devices which provides a secure chatting experience among users with the help of fast and secure AES-256 symmetric encryption algorithm.
 
-A new Flutter project.
+=> It uses FireBase API for authentication and FireStore DB.
 
-## Getting Started
+=> Made with flutter.
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_3](https://user-images.githubusercontent.com/72512986/122643928-25ef3080-d130-11eb-851c-0966eb9e15ff.png)
+![Screenshot_2021-06-19-03-50-21-284_com example chatapp](https://user-images.githubusercontent.com/72512986/122643961-4919e000-d130-11eb-8532-e18c47a572a8.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
