@@ -3,7 +3,7 @@
 
 => It also uses SHA-256 for mataining integrity.
 
-=> It uses FireBase API🔥 for authentication and FireStore DB.
+=> It uses FireBase🔥 API for authentication and FireStore DB.
 
 => Made with flutter❤.
 
