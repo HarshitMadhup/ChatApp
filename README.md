@@ -7,7 +7,6 @@
 
 ## Screenshot
 
-![Apple iPhone X Presentation](https://user-images.githubusercontent.com/72512986/130205752-89104302-1d4e-421f-b3bf-da6e26aa2ee0.png)
 
 
 
